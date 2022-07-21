@@ -1,0 +1,38 @@
+
+public class Var {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//변수: 데이터를 저장하는 공간
+		//데이터타입(자료형) 변수명
+		
+		//기본자료형 : 8개
+		
+//		int x; 	// 변수의 선언
+//		x = 10; // 변수의 초기화
+//		
+//		System.out.println(x);
+		
+//		int x;
+//		int y;
+//		int z;
+//		
+//		x = 10;	// 대입연산자
+//		y = 20;
+//		z = 30;
+//		
+//		System.out.println(x);
+//		System.out.println(y);
+//		System.out.println(z);
+		
+		int x,y,z;
+		x = 10;
+		y = 20;
+		z = 30;
+		
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(z);
+	}
+
+}

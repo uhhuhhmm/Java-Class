@@ -1,0 +1,92 @@
+
+public class Var {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//변수 : 데이터를 저장하는 공간
+		//데이터타입(자료형) 변수명
+		
+		//기본자료형 : 8개
+		
+//		int x; 	// 변수의 선언
+//		x = 10; // 변수의 초기화
+//		
+//		System.out.println(x);
+		
+//		int x;
+//		int y;
+//		int z;
+//		
+//		x = 10;	// 대입연산자
+//		y = 20;
+//		z = 30;
+//		
+//		System.out.println(x);
+//		System.out.println(y);
+//		System.out.println(z);
+		
+//		int x,y,z;
+//		x = 10;
+//		y = 20;
+//		z = 30;
+//		
+//		System.out.println(x);
+//		System.out.println(y);
+//		System.out.println(z);
+		
+//		int x,y,z;
+//		x=y=z=100;
+//		
+//		System.out.println(x);
+//		System.out.println(y);
+//		System.out.println(z);
+//		
+//		클래스명 : HelloWorld1_$
+//		변수명 : helloWorld1_$
+//		메소드명 : helloWorld1_$()
+//      상수명 : PI1_$ 대문자로 작성 		
+		
+//		final double PI = 3.14; // 상수
+//		PI = 3.1415; error
+		
+//		boolean b; // true, false
+//		b = true;
+//		System.out.println(b);
+//		
+//		byte bt = 10; // -128 ~ 127
+//		short s = 10; // -32500 ~ 32500
+//		int i = 10;   // -21억 ~ 21억
+//		long l = 10L; // 음수, 양수 13자리, 접미사 생략가능
+//		
+//		char c = 'A'; // 0 ~ 65570
+//		
+//		float f = 3.14F;
+//		double d = 3.14D; // 접미사 생략가능
+		
+//		char c = 'A';
+//		System.out.println(c);
+//		
+//		char c2 = 65;
+//		System.out.println(c2);
+//		
+//		int i = 'A';
+//		System.out.println(i);
+//		
+//		char han = '가';
+//		System.out.println(han);
+//		
+//		int i2 = '가';
+//		System.out.println(i2);
+//		
+//		char c3 = 44032;
+//		System.out.println(c3);
+//		
+//		char c4 = 'B'; //66
+//		char c5 = 'A'; //65
+//		System.out.println(c4 - c5);
+		
+		int b = 128;
+		System.out.println(b);
+	}
+
+}

@@ -1,0 +1,35 @@
+
+public class Operator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// 산술연산자
+		// +,-,*,/,%
+		
+//		int x = 5;
+//		int y = 2;
+//		
+//		System.out.println("몫 : " + x / y);
+//		System.out.println("나머지 : " + x % y);
+		
+		// 증감 연산자 : 변수에만 사용 가능
+		// ++, --
+		// 전치, 후치
+		// 변수의 값을 1증가, 1감소
+		
+//		int x = 10;
+//		++x;
+//		System.out.println(x);
+//		x++;
+//		System.out.println(x);
+		
+		int x = 10;
+		int y = 0;
+		y = y + x++;	// y = ? , x = ?
+		System.out.println("x= " + x + ", y =" + y);
+		
+		
+	}
+
+}
